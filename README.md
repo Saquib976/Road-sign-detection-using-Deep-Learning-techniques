@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Interested to Buy or Collaborate?
 
-If you want to get the complete project source code or need customization, please contact me:
+If you want to get the complete project source code and report or need customization, please contact me:
 
 - *Email:*    saquibsabir786@gmail.com  
 - *LinkedIn:* https://www.linkedin.com/in/saquib-s-736063217
