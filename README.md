@@ -85,7 +85,4 @@ Payment and delivery details will be discussed after initial contact.
 
 ---
 
-## ⚠ Disclaimer
 
-This project is for educational purposes. Selling or sharing without permission may violate university policies. Please contact me for legitimate use.
-   
